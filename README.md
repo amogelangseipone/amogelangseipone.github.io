@@ -28,6 +28,3 @@ Worked with synthetic insurance risk data in R. Used exploratory analysis and vi
 ### [Insurance Premium Calculator (HTML & CSS)](https://amogelangseipone.github.io/InsureMe/)
 Designed a responsive front-end web tool that lets users estimate car insurance premiums. Built using HTML and CSS with a focus on clean layout and usability.
 
----
-
-Feel free to explore these projects, and contact me via [LinkedIn](https://www.linkedin.com/in/amogelangseipone) or [email](mailto:amogelangseipone25@gmail.com) if you'd like to collaborate or learn more.
