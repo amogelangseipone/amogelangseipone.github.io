@@ -12,6 +12,9 @@ Used R to analyze statistical distributions with real-world data. Covered topics
 ### [WildLifeHaven Website (Game Reserve Guide)](https://amogelangseipone.github.io/WildLifeHaven/index.html)
 Informative website about South African game reserves. Features visitor recommendations, conservation info, and wildlife sightings. Built with HTML and CSS to be clean, responsive, and easy to navigate.
 
+### [Library Management System (SQL Server)](https://github.com/amogelangseipone/Library-Database-Management-System)
+Developed a relational database to manage library operations, including books, members, and borrowing history. Designed tables, relationships, and constraints to ensure data integrity. Implemented T-SQL queries for searching, sorting, and reporting. Documented database structure and query functionality for clarity.
+
 ---
 
 ## 💻 Personal Projects
