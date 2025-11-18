@@ -22,6 +22,9 @@ Developed a relational database to manage library operations, including books, m
 ### [South African Crime Analysis (Python)](https://github.com/amogelangseipone/sa-crime-analysis)
 Analyzed and visualized South African crime trends (2011–2023) using real SAPS data. Used `pandas`, `matplotlib`, and `seaborn` to highlight provincial and national crime trends, with markdown explanations and insights.
 
+### [Causal Analysis of Smoking on Medical Costs (R)](https://github.com/amogelangseipone/smoking-medical-costs-analysis)
+Comprehensive statistical analysis investigating the relationship between smoking and medical insurance charges using real-world data.
+
 ### [Car Insurance Premium Calculator (C#)](https://github.com/amogelangseipone/Car-Insurance-Calculator)
 Developed a Windows Forms application in C# to calculate insurance premiums based on user inputs. Includes logic for dynamic updates and a user-friendly interface.
 
