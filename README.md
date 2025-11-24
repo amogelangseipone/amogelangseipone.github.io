@@ -6,17 +6,23 @@ Welcome to my public project portfolio. Below are selected academic and personal
 
 ## 🎓 Academic Projects
 
+### [Nedbank Stock Volatility Analysis (R)](https://github.com/amogelangseipone/nedbank-volatility-analysis)
+Analyzed historical Nedbank stock prices (2005–2012) to understand how volatility behaved across different market conditions.
+
+### [Library Management System (SQL Server)](https://github.com/amogelangseipone/Library-Database-Management-System)
+Developed a relational database to manage library operations, including books, members, and borrowing history. Designed tables, relationships, and constraints to ensure data integrity. Implemented T-SQL queries for searching, sorting, and reporting. Documented database structure and query functionality for clarity.
+
+### [UFS Recruitment System - Software Design](https://github.com/amogelangseipone/software-design)
+This was a capstone academic project focused on the design phase of the software development lifecycle. The system is designed to be a comprehensive platform that bridges the gap between University of the Free State (UFS) students and employers, facilitating recruitment, profile management, and career development.
+
 ### [Sample Distribution Theory and Inference Portfolio](https://github.com/amogelangseipone/Sample-Distribution-Theory-and-Inference-Portfolio)
 Used R to analyze statistical distributions with real-world data. Covered topics like hypothesis testing, variance analysis, and data visualization. Demonstrated strong independent research and problem-solving.
 
 ### [WildLifeHaven Website (Game Reserve Guide)](https://amogelangseipone.github.io/WildLifeHaven/index.html)
 Informative website about South African game reserves. Features visitor recommendations, conservation info, and wildlife sightings. Built with HTML and CSS to be clean, responsive, and easy to navigate.
 
-### [Library Management System (SQL Server)](https://github.com/amogelangseipone/Library-Database-Management-System)
-Developed a relational database to manage library operations, including books, members, and borrowing history. Designed tables, relationships, and constraints to ensure data integrity. Implemented T-SQL queries for searching, sorting, and reporting. Documented database structure and query functionality for clarity.
 
-### [Nedbank Stock Volatility Analysis (R)](https://github.com/amogelangseipone/nedbank-volatility-analysis)
-Analyzed historical Nedbank stock prices (2005–2012) to understand how volatility behaved across different market conditions.
+
 
 ---
 
