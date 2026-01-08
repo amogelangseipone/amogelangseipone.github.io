@@ -6,8 +6,8 @@ Welcome to my public project portfolio. Below are selected academic and personal
 
 ## 💻 Personal Projects
 
-### [South Africa Unemployment Report (Power BI)](https://github.com/amogelangseipone/SA-Unemployment-Analysis)
-Interactive Power BI report analyzing youth vs adult unemployment trends in South Africa (2000-2024). Cleaned ILO data using Power Query, built DAX measures, and designed visualizations showing youth unemployment is 2.1× higher than adults.
+### [South Africa Unemployment Dashboard (Power BI)](https://github.com/amogelangseipone/SA-Unemployment-Analysis)
+Interactive Power BI dashboard analyzing youth vs adult unemployment trends in South Africa (2000-2024). Cleaned ILO data using Power Query, built DAX measures, and designed visualizations showing youth unemployment is 2.1× higher than adults.
 
 ### [South African Crime Analysis (Python)](https://github.com/amogelangseipone/sa-crime-analysis)
 Analyzed and visualized South African crime trends (2011–2023) using real SAPS data. Used `pandas`, `matplotlib`, and `seaborn` to highlight provincial and national crime trends, with markdown explanations and insights.
