@@ -28,17 +28,20 @@ Designed a responsive front-end web tool that lets users estimate car insurance 
 
 ## 🎓 Academic Projects
 
-### [Nedbank Stock Volatility Analysis (R)](https://github.com/amogelangseipone/nedbank-volatility-analysis)
-Analyzed historical Nedbank stock prices (2005–2012) to understand how volatility behaved across different market conditions.
+### [Event Management System (ASP.NET 9.0 MVC)](https://github.com/amogelangseipone/EventManagementSystem)
+Full-stack web application developed as part of CSIS3734 at UFS. Users can browse upcoming events, view details, register as attendees, and see confirmation of their registration. Built with C#, ASP.NET 9.0 MVC, EF Core, SQL Server, Bootstrap 5, HTML, and CSS. A glimpse of how the website works has been provided in the `screenshot` folder. Achieved **97%** for the assignment. 
 
 ### [Library Management System (SQL Server)](https://github.com/amogelangseipone/Library-Database-Management-System)
 Developed a relational database to manage library operations, including books, members, and borrowing history. Designed tables, relationships, and constraints to ensure data integrity. Implemented T-SQL queries for searching, sorting, and reporting. Documented database structure and query functionality for clarity.
 
-### [UFS Recruitment System - Software Design](https://github.com/amogelangseipone/software-design)
-This was a capstone academic project focused on the design phase of the software development lifecycle. The system is designed to be a comprehensive platform that bridges the gap between University of the Free State (UFS) students and employers, facilitating recruitment, profile management, and career development.
+### [Nedbank Stock Volatility Analysis (R)](https://github.com/amogelangseipone/nedbank-volatility-analysis)
+Analyzed historical Nedbank stock prices (2005–2012) to understand how volatility behaved across different market conditions.
 
 ### [Sample Distribution Theory and Inference Portfolio](https://github.com/amogelangseipone/Sample-Distribution-Theory-and-Inference-Portfolio)
 Used R to analyze statistical distributions with real-world data. Covered topics like hypothesis testing, variance analysis, and data visualization. Demonstrated strong independent research and problem-solving.
+
+### [UFS Recruitment System - Software Design](https://github.com/amogelangseipone/software-design)
+This was a capstone academic project focused on the design phase of the software development lifecycle. The system is designed to be a comprehensive platform that bridges the gap between University of the Free State (UFS) students and employers, facilitating recruitment, profile management, and career development.
 
 ### [WildLifeHaven Website (Game Reserve Guide)](https://amogelangseipone.github.io/WildLifeHaven/index.html)
 Informative website about South African game reserves. Features visitor recommendations, conservation info, and wildlife sightings. Built with HTML and CSS to be clean, responsive, and easy to navigate.
